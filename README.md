@@ -17,11 +17,12 @@ A Python-based image analysis pipeline for bacterial and fungal behaviour in mic
 
 The program uses Python-based image processing, with the following libraries:
 
-- **numpy** – Used for numerical computations and array operations.
-- **matplotlib** – Used for visualising data, including plots and histograms.
-- **scipy** – Provides scientific computing tools, including image filtering (`gaussian_filter`, `median_filter`).
-- **opencv-python (cv2)** – Used for image processing, including feature detection and transformation.
-- **scikit-image (skimage)** – Used for image filtering, thresholding, segmentation, and morphology functions.
+- **[numpy](https://numpy.org/)** – Used for numerical computations and array operations.
+- **[matplotlib](https://matplotlib.org/)** – Used for visualising data, including plots and histograms.
+- **[scipy](https://scipy.org/)** – Provides scientific computing tools, including image filtering (`gaussian_filter`, `median_filter`).
+- **[opencv-python (cv2)](https://opencv.org/)** – Used for image processing, including feature detection and transformation.
+- **[scikit-image (skimage)](https://scikit-image.org/)** – Used for image filtering, thresholding, segmentation, and morphology functions.
+
 
 
 **Installation**
