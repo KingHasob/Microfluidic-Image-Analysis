@@ -36,7 +36,7 @@ This project requires the following Python libraries:
 **Installation**
 
 To install all required dependencies, run:
-```sh
+sh
 pip install numpy matplotlib scipy opencv-python scikit-image
 
 
