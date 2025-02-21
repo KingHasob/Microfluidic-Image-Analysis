@@ -6,7 +6,7 @@ This project provides automated tools for processing raw microscopy images of ba
 Bacterial Movement Analysis using Image Processing
 
 Overview
-This project is part of our **DAPP microfluidic chip study** to investigate bacterial movement along fungal highways. The Python program developed here is used for **analyzing microscopy images** obtained from the chip. The goal is to extract **quantitative data** to better understand bacterial behavior, motility, and interactions within the microfluidic environment.
+- This project is part of our microfluidic chip study to investigate bacterial movement along fungal highways. The Python program developed here is used for analysing microscopy images obtained from the chip. The goal is to extract quantitative data to better understand bacterial behavior, motility, and interactions within the microfluidic environment.
 
 Goal
 - Process microscopy images and extract relevant bacterial movement data.
