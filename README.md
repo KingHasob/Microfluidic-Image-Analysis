@@ -5,10 +5,10 @@ This project provides automated tools for processing raw microscopy images of ba
 
 Bacterial Movement Analysis using Image Processing
 
-Overview
+**Overview**
 - This project is part of our microfluidic chip study to investigate bacterial movement along fungal highways. The Python program developed here is used for analysing microscopy images obtained from the chip. The goal is to extract quantitative data to better understand bacterial behavior, motility, and interactions within the microfluidic environment.
 
-Goal
+**Goal**
 - Process microscopy images and extract relevant bacterial movement data.
 - Quantify bacterial **position, movement speed, clustering behavior**, and **hitchhiking patterns**.
 - Improve image clarity through **denoising, edge detection, and segmentation** techniques.
@@ -16,14 +16,14 @@ Goal
 
 ---
 
-Current Methodology
+**Current Methodology**
 
 The program uses **Python-based image processing** with the following libraries:
 - [`numpy`](https://numpy.org/) - Numerical computation
 - [`skimage`](https://scikit-image.org/) - Image processing functions
 - [`opencv`](https://opencv.org/) - Computer vision and feature detection
 
-Processing Techniques & Applications
+**Processing Techniques & Applications**
 
 | Processing Technique       | Purpose                                              | Application |
 |----------------------------|------------------------------------------------------|-------------|
