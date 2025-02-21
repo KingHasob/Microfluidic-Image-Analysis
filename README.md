@@ -40,20 +40,17 @@ To install all required dependencies, run:
 pip install numpy matplotlib scipy opencv-python scikit-image
 
 
-
 **Processing Techniques & Applications**
 
-| Processing Technique       | Purpose                                              | Application |
-|----------------------------|------------------------------------------------------|-------------|
-| **Denoising**              | Removes noise, enhances clarity                     | Improves microscopic image quality |
-| **Edge Detection**         | Identifies boundaries in images                     | Highlights bacterial cluster boundaries |
-| **Deconvolution**          | Anti-blurring, enhances sharpness                   | Assists in highlighting boundaries if images are blurred |
-| **Filtering (entropy filter)** | Measures image complexity (entropy) to detect key features | Improves segmentation clarity, pre-processing for thresholding |
-| **Thresholding**           | Converts grayscale images to binary images          | Separates bacteria from non-bacteria regions |
-| **Movement Tracking** (in progress) | Tracking algorithm for motile bacteria     | Calculates motility & hitchhiking behavior |
-| **Numerical Quantification** (in progress) | Extracts quantitative movement data     | Computes bacterial track distance, hitchhiking efficiency |
-| **Custom Object Segmentation** | Identifies bacterial clusters from microchannels  | Measures area, ratios, bacterial separation |
-
----
+| Processing Technique             | Purpose                                                  | Application |
+|----------------------------------|----------------------------------------------------------|-------------|
+| **Denoising**                    | Removes noise, enhances clarity                         | Improves microscopic image quality |
+| **Edge Detection**               | Identifies boundaries in images                         | Highlights bacterial cluster boundaries |
+| **Deconvolution**                | Anti-blurring, enhances sharpness                      | Assists in highlighting boundaries if images are blurred |
+| **Filtering (entropy filter)**   | Measures image complexity (entropy) to detect key features | Improves segmentation clarity, pre-processing for thresholding |
+| **Thresholding**                 | Converts grayscale images to binary images             | Separates bacteria from non-bacteria regions |
+| **Movement Tracking** (in progress)  | Tracking algorithm for motile bacteria                  | Calculates motility & hitchhiking behavior |
+| **Numerical Quantification** (in progress) | Extracts quantitative movement data             | Computes bacterial track distance, hitchhiking efficiency |
+| **Custom Object Segmentation**   | Identifies bacterial clusters from microchannels        | Measures area, ratios, bacterial separation |
 
 
