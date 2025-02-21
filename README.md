@@ -40,7 +40,7 @@ To install all required dependencies, run:
 pip install numpy matplotlib scipy opencv-python scikit-image
 
 
-**Processing Techniques & Applications**
+##Processing Techniques & Applications
 
 | Processing Technique             | Purpose                                                  | Application |
 |----------------------------------|----------------------------------------------------------|-------------|
