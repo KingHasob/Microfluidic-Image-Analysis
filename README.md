@@ -1,12 +1,9 @@
 # Microfluidic-Image-Analysis
 A Python-based image analysis pipeline for bacterial and fungal behaviour in microfluidic environments
 
-This project provides automated tools for processing raw microscopy images of bacteria and fungi in microfluidic channels
-
-Bacterial Movement Analysis using Image Processing
 
 **Overview**
-- This project is part of our microfluidic chip study to investigate bacterial movement along fungal highways. The Python program developed here is used for analysing microscopy images obtained from the chip. The goal is to extract quantitative data to better understand bacterial behavior, motility, and interactions within the microfluidic environment.
+- This project is part of our microfluidic chip study to investigate bacterial movement along fungal highways. The Python program developed here is used for analysing microscopy images obtained from the chip. The goal is to improve image clarity, as well as to extract quantitative data to better understand bacterial behaviour, motility, and interactions within the microfluidic environment.
 
 **Goal**
 - Process microscopy images and extract relevant bacterial movement data.
@@ -16,22 +13,16 @@ Bacterial Movement Analysis using Image Processing
 
 ---
 
-**Current Methodology**
-
-The program uses **Python-based image processing** with the following libraries:
-- [`numpy`](https://numpy.org/) - Numerical computation
-- [`skimage`](https://scikit-image.org/) - Image processing functions
-- [`opencv`](https://opencv.org/) - Computer vision and feature detection
 
 **Dependencies**
 
-This project requires the following Python libraries:
+The program uses Python-based image processing, with the following libraries:
 
 - **numpy** – Used for numerical computations and array operations.
-- **matplotlib** – Used for visualizing data, including plots and histograms.
+- **matplotlib** – Used for visualising data, including plots and histograms.
 - **scipy** – Provides scientific computing tools, including image filtering (`gaussian_filter`, `median_filter`).
 - **opencv-python (cv2)** – Used for image processing, including feature detection and transformation.
-- **scikit-image (skimage)** – Provides image filtering, thresholding, segmentation, and morphology functions.
+- **scikit-image (skimage)** – Used for image filtering, thresholding, segmentation, and morphology functions.
 
 **Installation**
 
