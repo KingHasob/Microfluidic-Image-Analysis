@@ -7,10 +7,10 @@ A Python-based image analysis pipeline for bacterial and fungal behaviour in mic
   
 
 **Goal**
-- Process microscopy images and extract relevant bacterial movement data.
+- Process microscopy images, improve image quality, and extract relevant quantitative data.
 - Quantify bacterial **position, movement speed, clustering behavior**, and **hitchhiking patterns**.
 - Improve image clarity through **denoising, edge detection, and segmentation** techniques.
-- Automate the image analysis pipeline to handle large datasets efficiently.
+- Automate the image analysis pipeline to **handle large datasets efficiently**.
 
 
 **Dependencies**
