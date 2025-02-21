@@ -36,11 +36,13 @@ This project requires the following Python libraries:
 **Installation**
 
 To install all required dependencies, run:
-sh
-pip install numpy matplotlib scipy opencv-python scikit-image
+
+```sh
+pip install numpy matplotlib scipy opencv-python scikit-image ```
 
 
-##Processing Techniques & Applications
+
+**Processing Techniques & Applications**
 
 | Processing Technique             | Purpose                                                  | Application |
 |----------------------------------|----------------------------------------------------------|-------------|
